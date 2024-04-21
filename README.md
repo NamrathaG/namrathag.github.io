@@ -1,1 +1,0 @@
-# namrathag.github.io
