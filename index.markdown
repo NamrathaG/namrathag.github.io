@@ -9,7 +9,7 @@ layout: home
 
 Hello! 
 
-I'm a Phd student at the [Laboratoire d'informatique de l'École polytechnique (LIX)][lix], France, where I work under the supervision of [Prof. Constantin Enea][constantin-site]. My research focuses on the formal verification of concurrent programs. I currently work with the [Civl verifier][civl-doc].
+I'm a Phd student at the [Laboratoire d'informatique de l'École polytechnique (LIX)][lix], France, where I work under the supervision of [Constantin Enea][constantin-site]. My research focuses on the formal verification of concurrent programs. I currently work with the [Civl verifier][civl-doc].
 
 I hold a Master’s degree in Computer Science from [Chennai Mathematical Institute][cmi], India and I previously worked as a software engineer at [Citrix Systems][citrix].
 
