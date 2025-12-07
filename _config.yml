@@ -139,4 +139,5 @@ plugins:
 header_pages:
   - teaching.md
   - talks.md
+  - events.md
 
