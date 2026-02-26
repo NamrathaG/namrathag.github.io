@@ -137,6 +137,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - research.md
   - teaching.md
   - talks.md
   - events.md
