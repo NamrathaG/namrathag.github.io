@@ -25,6 +25,26 @@ permalink: /talks/
 }
 </style>
 
+<!-- ================= TALK : MARKTOBERDORF ================= -->
+
+<div class="talk-entry">
+  <div class="talk-title">Deductive Verification of Concurrent Programs with Civl</div>
+  <div class="talk-date">Aug 2026</div>
+</div>
+
+<div class="talk-details">
+  <strong>
+    <a href="https://sites.google.com/view/marktoberdorf2026?pli=1" target="_blank">
+      Marktoberdorf Summer School 2026
+    </a>
+  </strong><br>
+ Herrsching am Ammersee, Germany<br><br>
+
+</div>
+
+<hr>
+
+
 <!-- ================= TALK 1: VTSA 2025 (LATEST) ================= -->
 
 <div class="talk-entry">
@@ -94,3 +114,5 @@ permalink: /talks/
 </div>
 
 <hr>
+
+

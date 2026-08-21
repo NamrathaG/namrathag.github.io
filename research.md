@@ -59,7 +59,7 @@ permalink: /research/
 <div class="research-details">
 
   <div class="research-meta">
-    <em>To appear at ESOP 2026</em><br>
+    <em>ESOP 2026</em><br>
     <strong>Authors:</strong> Namratha Gangamreddypalli, Constantin Enea, Shaz Qadeer
   </div>
 
