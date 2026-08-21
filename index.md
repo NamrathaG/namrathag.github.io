@@ -15,7 +15,7 @@ I hold a Master’s degree in Computer Science from [Chennai Mathematical Instit
 
 
 [constantin-site]: https://www.lix.polytechnique.fr/~cenea/
-[civl-doc]: https://civl-verifier.github.io/doc.html
+[civl-doc]: https://civl-verifier.github.io/
 [cmi]: https://www.cmi.ac.in/
 [citrix]: https://www.citrix.com/
 [lix]: https://www.lix.polytechnique.fr/
