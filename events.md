@@ -41,7 +41,7 @@ permalink: /events/
 
 <hr> 
 <div class="events-entry">
-  <div class="events-title">Organizer – JITA Junior Conference 2024</div>
+  <div class="events-title">Co-Organizer – JITA Junior Conference 2024</div>
   <div class="events-date">2024</div>
 </div>
 
