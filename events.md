@@ -26,6 +26,20 @@ permalink: /events/
 </style>
 
 
+
+
+<div class="events-entry">
+  <div class="events-title">Participant – OPLSS 2026</div>
+  <div class="events-date">June 2026</div>
+</div>
+
+ <strong>
+    <a href="https://www.cs.uoregon.edu/research/summerschool/summer26/" target="_blank">
+      Oregon Programming Languages Summer School 2026
+    </a>
+  </strong><br>
+
+<hr> 
 <div class="events-entry">
   <div class="events-title">Organizer – JITA Junior Conference 2024</div>
   <div class="events-date">2024</div>
@@ -44,18 +58,4 @@ permalink: /events/
   schedule, communicating with participants, and supporting the logistics of running the event.
 </div>
 
-<hr>
 
-<div class="events-entry">
-  <div class="events-title">Participant – OPLSS 2026</div>
-  <div class="events-date">June 2026</div>
-</div>
-
- <strong>
-    <a href="https://www.cs.uoregon.edu/research/summerschool/summer26/" target="_blank">
-      Oregon Programming Languages Summer School 2026
-    </a>
-  </strong><br>
-
-
-<hr>
