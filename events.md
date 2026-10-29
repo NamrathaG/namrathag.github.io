@@ -45,3 +45,38 @@ permalink: /events/
 </div>
 
 <hr>
+
+<div class="events-entry">
+  <div class="events-title">Participant – OPLSS 2026</div>
+  <div class="events-date">June 2026</div>
+</div>
+
+ <strong>
+    <a href="https://www.cs.uoregon.edu/research/summerschool/summer26/" target="_blank">
+      Oregon Programming Languages Summer School 2026
+    </a>
+  </strong><br>
+
+
+<hr>
+
+
+<!-- ================= TALK : OPLSS =================
+
+<div class="talk-entry">
+  <div class="talk-title">Deductive Verification of Concurrent Programs with Civl</div>
+  <div class="talk-date">June 2026</div>
+</div>
+
+<div class="talk-details">
+  <strong>
+    <a href="https://www.cs.uoregon.edu/research/summerschool/summer26/" target="_blank">
+      Oregon Programming Languages Summer School 2026
+    </a>
+  </strong><br>
+ Eugene, Oregon<br><br>
+
+</div>
+
+<hr>
+ -->
