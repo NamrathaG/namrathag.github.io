@@ -45,7 +45,7 @@ permalink: /talks/
 <hr>
 
 
-<!-- ================= TALK : OPLSS ================= -->
+<!-- ================= TALK : OPLSS =================
 
 <div class="talk-entry">
   <div class="talk-title">Deductive Verification of Concurrent Programs with Civl</div>
@@ -62,7 +62,7 @@ permalink: /talks/
 
 </div>
 
-<hr>
+<hr> -->
 
 
 <!-- ================= TALK 1: VTSA 2025 (LATEST) ================= -->
